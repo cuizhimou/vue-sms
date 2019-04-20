@@ -4,7 +4,9 @@
     <mt-header fixed title="vue学习中"></mt-header>
 
     <!--中间的路由 router-view区域-->
-
+	
+		<router-view></router-view>
+	
     <!-- 底部 Tabbar 区域 -->
   
     <nav class="mui-bar mui-bar-tab">
